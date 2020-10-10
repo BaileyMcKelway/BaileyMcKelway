@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**BaileyMcKelway/BaileyMcKelway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...
 
 WikiEdu - Site that connects 500+ universities to Wikipedia →React, Ruby
@@ -21,4 +18,4 @@ Brewing Kombucha 🍶
 
 📧 bjlmckelway@gmail.com
 
--->
+
