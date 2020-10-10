@@ -12,8 +12,8 @@
 
 
 ## 🌱 I’m currently learning ...
-    Distributed System Design
-      Brewing Kombucha 🍶
+ Distributed System Design
+    Brewing Kombucha 🍶
 
 ## 📫 How to reach me: ...
 
