@@ -2,11 +2,11 @@
 
 ## 🔭 I’m currently working on ...
 
--WikiEdu - Site that connects 500+ universities to Wikipedia
+- WikiEdu - Site that connects 500+ universities to Wikipedia
 
--Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates
+- Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates
 
--E-Commerce - Building E-Commerce sites that scale to help small businesses adapt to the changing market
+- E-Commerce - Building E-Commerce sites that scale to help small businesses adapt to the changing market
 
 
 ## 🌱 I’m currently learning ...
