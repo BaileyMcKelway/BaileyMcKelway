@@ -3,14 +3,22 @@
 <!--
 **BaileyMcKelway/BaileyMcKelway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+
+WikiEdu - Site that connects 500+ universities to Wikipedia →React, Ruby
+Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates →Python
+E-Commerce - Building E-Commerce sites that scale to help small businesses adapt to the changing market →React, Typescript
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+Distributed System Design
+Brewing Kombucha 🍶
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[LinkedIn](https://www.linkedin.com/in/bailey-mckelway/)
+[Medium🖋](https://medium.com/@bjlmckelway)
+[🐦 @Bbeebs_](https://twitter.com/Bbeebs_)
+
+📧 bjlmckelway@gmail.com
+
 -->
