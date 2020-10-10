@@ -6,7 +6,7 @@
 
 - Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates
 
-- E-Commerce - Building E-Commerce sites that scale to help small businesses adapt to the changing market
+- E-Commerce - Building sites that scale to help small businesses adapt to the changing market
 
 
 ## 🌱 I’m currently learning ...
