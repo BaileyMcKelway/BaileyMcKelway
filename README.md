@@ -1,11 +1,11 @@
 
 ### 🔭 I’m currently working on ...
 
-  # WikiEdu - Site that connects 500+ universities to Wikipedia - React, Ruby
+  #### WikiEdu - Site that connects 500+ universities to Wikipedia - React, Ruby
 
-  # Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates - Python
+  #### Wiki Update - Web Scraper that creates a newsletter of selected Wikipedia Article Updates - Python
 
-  # E-Commerce - Building sites that scale to help small businesses adapt to the changing market - React, Typescript
+  #### E-Commerce - Building sites that scale to help small businesses adapt to the changing market - React, Typescript
 ### 🌱 I’m currently learning ...
   Distributed System Design
  
