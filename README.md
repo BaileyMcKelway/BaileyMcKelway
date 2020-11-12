@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning ...
   Distributed System Design
  
-  Brewing Kombucha 🍶
+  How to brewing Kombucha 🍶
 ### 📫 How to reach me: ...
 
   [LinkedIn🆒](https://www.linkedin.com/in/bailey-mckelway/)
