@@ -1,3 +1,9 @@
+### ✏️ What I'm working on: ...
+
+  [MediaEdits.io🎛](https://mediaedits.io/)
+  
+  Geeking out over browsers🤖
+  
 ### 📫 How to reach me: ...
 
   [LinkedIn🆒](https://www.linkedin.com/in/bailey-mckelway/)
