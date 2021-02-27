@@ -1,6 +1,7 @@
 ### 📫 How to reach me: ...
   ![LinkedIn](./LinkedInIcon.svg)
-  [LinkedIn🆒](https://www.linkedin.com/in/bailey-mckelway/)
+  <a href="https://www.linkedin.com/in/bailey-mckelway/" target="_blank"><img src="./LinkedInIcon.svg"></a>
+
   
   [Medium🖋](https://medium.com/@bjlmckelway)
   
