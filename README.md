@@ -1,9 +1,5 @@
-
-<div align="center">
   ![](https://media.giphy.com/media/1TpGKApbHmkZa/giphy.gif)
-  
-  
-  
+<div align="center">
   📫 How to reach me
   
   
