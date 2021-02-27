@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1TpGKApbHmkZa/giphy.gif" />
   
   
   📫 How to reach me
