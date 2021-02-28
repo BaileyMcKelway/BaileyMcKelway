@@ -1,6 +1,6 @@
 
 <div align="center">
-  
+  <img src=./header.gif/>
   
   📫 How to reach me
   
